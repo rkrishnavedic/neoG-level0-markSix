@@ -18,6 +18,7 @@ btn.addEventListener("click", function eventHandler(){
     fetch(fetchURL(input.value))
     .then(res => res.json())
     .then(res =>{
+        //console.log(res);
         output.innerText = res.contents.translated;
     })
     .catch(err=>{

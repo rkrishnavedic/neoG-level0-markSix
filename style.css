@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 body{
-    font-family: 'Lemonada', cursive;
+    font-family: 'Indie Flower', cursive;
 }
 
 h2{
@@ -44,5 +45,3 @@ footer{
     background-color:peachpuff;
     text-align: center;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
